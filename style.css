@@ -18,6 +18,7 @@ body {
 	
 	.content {
 		width: 1500px;
+		transition: 1s;
 	}
 
 	.clearfix {
